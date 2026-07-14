@@ -1,0 +1,9 @@
+[package]
+name = "oxigrad"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+half = "2.7.1"
+ndarray = "0.17.2"
+ort = "2.0.0-rc.12"
